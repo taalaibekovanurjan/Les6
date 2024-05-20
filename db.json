@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "bookName": "Код Судьбы: матрица. Путь истинного Я",
+      "bookAuthor": "Анастасия Джей Голлов",
+      "bookImg": "https://cv5.litres.ru/pub/c/cover_415/67978452.webp",
+      "bookPrice": "500р",
+      "id": 1
+    },
+    {
+      "bookName": "Наука чтения людей. Как понять, что люди на самом деле имеют в виду, когда говорят",
+      "bookAuthor": "Патрик Кинг",
+      "bookImg": "https://cv0.litres.ru/pub/c/cover_415/69593500.webp",
+      "bookPrice": "800р",
+      "id": 2
+    },
+    {
+      "bookName": "Стоп срывам и перееданиям!",
+      "bookAuthor": "Евгения Меглинская",
+      "bookImg": "https://cv5.litres.ru/pub/c/cover_415/65492052.webp",
+      "bookPrice": "299р",
+      "id": 3
+    },
+    {
+      "bookName": "Интересный пациент",
+      "bookAuthor": "Сергей Ауслендер",
+      "bookImg": "https://cv3.litres.ru/pub/c/cover_415/67195638.webp",
+      "bookPrice": "349р",
+      "id": 4
+    }
+  ]
+}
